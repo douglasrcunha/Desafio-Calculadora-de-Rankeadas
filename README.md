@@ -11,6 +11,4 @@ Calculadora de partidas Rankeadas
 
 **Linguagem:**
 
-~~~javascript
-Este é um script de código em Javascript.
-~~~
+_Javascript_
