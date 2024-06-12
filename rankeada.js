@@ -1,5 +1,5 @@
 let rankeada = {
-	vitorias: 101,
+    vitorias: 101,
     derrotas: 20
 }
 
